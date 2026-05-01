@@ -4,7 +4,7 @@ Aplikasi web multi-halaman interaktif untuk menjelajahi keajaiban luar angkasa m
 
 ## 🌟 Demo
 
-**Live Demo:** [https://your-demo-link.netlify.app](https://your-demo-link.netlify.app) *(placeholder - deploy sendiri untuk demo live)*
+**Live Demo:** [https://salzcill-cmd.github.io/space-explorer-pro/](https://salzcill-cmd.github.io/space-explorer-pro/) 
 
 ## ✨ Fitur Utama
 
@@ -124,16 +124,13 @@ Response:
 - [ ] Multi-bahasa (i18n)
 - [ ] Mode VR untuk eksplorasi planet
 
-## 📸 Screenshots
-
-*(Tambahkan screenshot aplikasi di sini setelah deploy)*
 
 ## 👨‍💻 Developer
 
 **Space Explorer Team**
-- Senior Front-End Engineer
-- UI/UX Designer  
-- Software Architect
+- Senior Front-End Engineer(izza)
+- UI/UX Designer  (ai)
+- Software Architect (izza)
 
 ## 📄 Lisensi
 
